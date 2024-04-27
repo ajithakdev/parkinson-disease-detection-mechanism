@@ -28,26 +28,26 @@ Technologies Used:
 4. Contact Us: Users can submit their contact information and messages through a simple form.
 
 **Installation and Usage:**
->> Clone or download the repository.
->> Install the required libraries (using requirements.txt or manually).
->> Run the Streamlit app: streamlit run WebApp.py
->> Access the app in your web browser at the provided URL (usually http://localhost:8501).
+1. Clone or download the repository.
+2. Install the required libraries (using requirements.txt or manually).
+3. Run the Streamlit app: streamlit run WebApp.py
+4. Access the app in your web browser at the provided URL (usually http://localhost:8501).
 
 **Deployment:**
-=> The app can be deployed to various platforms like Streamlit Sharing or Heroku, or containerized using Docker for more complex environments.
+1. The app can be deployed to various platforms like Streamlit Sharing or Heroku, or containerized using Docker for more complex environments.
 
 **Future Enhancements:**
--> Integrate more advanced visualizations, such as interactive charts and graphs.
--> Include guidance and resources specific to Parkinson's disease for positive predictions.
--> Implement more robust input validation and error handling.
--> Develop personalized recommendations and progress tracking features.
--> Explore the use of other machine learning models and feature engineering techniques.
+1. Integrate more advanced visualizations, such as interactive charts and graphs.
+2. Include guidance and resources specific to Parkinson's disease for positive predictions.
+3. Implement more robust input validation and error handling.
+4. Develop personalized recommendations and progress tracking features.
+5. Explore the use of other machine learning models and feature engineering techniques.
 
 **Contribution:**
--> Feel free to contribute to the project by submitting issues, suggesting improvements, or creating pull requests.
+1. Feel free to contribute to the project by submitting issues, suggesting improvements, or creating pull requests.
 
 **License:**
->> Open Source - AnyOne Can Use it **Attribution required (@Anna_UNiversity_Regional_Campus_CSE_Batch_2020-2024)
+=> Open Source - AnyOne Can Use it **Attribution required (@Anna_UNiversity_Regional_Campus_CSE_Batch_2020-2024)
 
 **Contact:**
 >> Mail ID :
