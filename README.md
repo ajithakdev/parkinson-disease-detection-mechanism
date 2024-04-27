@@ -47,7 +47,7 @@ Technologies Used:
 1. Feel free to contribute to the project by submitting issues, suggesting improvements, or creating pull requests.
 
 **License:**
-=> Open Source - AnyOne Can Use it **Attribution required (@Anna_UNiversity_Regional_Campus_CSE_Batch_2020-2024)
+>>  Open Source - AnyOne Can Use it **Attribution required (@Anna_UNiversity_Regional_Campus_CSE_Batch_2020-2024)
 
 **Contact:**
 >> Mail ID :
