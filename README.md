@@ -1,6 +1,6 @@
 # parkinson-disease-detection-mechanism
 
-Project Title: Parkinson's Disease Early Prediction and Guidance Using Machine Learning
+>>  **Project Title:** Parkinson's Disease Early Prediction and Guidance Using Machine Learning
 
 **Description:**
 This project aims to develop a web application that can predict the likelihood of Parkinson's disease in individuals based on various voice characteristics and provide guidance for maintaining a healthy lifestyle.
