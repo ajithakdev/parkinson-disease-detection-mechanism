@@ -91,9 +91,6 @@ else:
 import pickle
 
 
-# Save the scaler
-filename = 'trained_scaler.pkl'
-pickle.dump(scaler, open(filename, 'wb')
 
 #loading the saved model
 loaded_model = pickle.load(open('trained_model.sav','rb'))
