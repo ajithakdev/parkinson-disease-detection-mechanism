@@ -219,6 +219,13 @@ Some other research has shown that people who consume caffeine \xe2\x80\x94 whic
                 else:
                     st.success(prediction_message)
 
+            #using loaded scaler
+            
+            input_data = [float(value) for value in input_data]
+            input_data_reshaped = np.array(input_data).reshape(1, -1)
+            std_data = loaded_scaler.transform(input_data_reshaped)  # Use loaded scaler
+            prediction_message = parkinsons_prediction(std_data)        
+
 
 def no_parkinsons_page():
     st.title("Great News! You Don't Have Parkinson's Disease")
