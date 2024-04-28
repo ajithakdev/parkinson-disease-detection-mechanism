@@ -9,6 +9,7 @@ from sklearn.preprocessing import StandardScaler
 # Load the saved model
 
 loaded_model = pickle.load(open('trained_model.sav', 'rb'))
+loaded_scaler = pickle.load(open('trained_scaler.pkl', 'rb'))
 
 
 def parkinsons_prediction(input_data):
